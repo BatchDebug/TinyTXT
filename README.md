@@ -36,10 +36,4 @@ Easily optimize your text with modern, efficient algorithms while keeping things
 
 ---
 
-## 🎯 Quick Links  
-- 🌐 **Try it out now!** (Link to your hosted version)  
-- 🛠️ **Contribute**: Got ideas? Let’s make TinyTXT even better!  
-
----
-
 ✨ Simplify your text, amplify your workflow! ✨
